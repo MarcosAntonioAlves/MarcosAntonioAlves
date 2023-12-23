@@ -15,7 +15,7 @@
     <img aling="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </div><br>
 
-## Tecnologias com Interece em Aprender
+## Tecnologias com Interesse em Aprender
 
 <div style="Display: inline_block"><br>
     <img aling="center" alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
